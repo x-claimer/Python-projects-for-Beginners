@@ -90,4 +90,4 @@ if ans1.lower() == "2020":
 else:
     print("Incorrect!")
 
-print("Congrats!! you have completed the quiz. This is you score: " + str(Score))
+print("Congrats!! you have completed the quiz. This is your score: " + str(Score))
